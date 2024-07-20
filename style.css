@@ -304,11 +304,11 @@ nav {
 /* TECHNOLOGY SECTION */
 /* TECHNOLOGY SECTION */
 /* TECHNOLOGY SECTION */
-.technology-section {
+#technology-section {
   margin-top: 100px;
 }
 
-.technology-section h5 {
+#technology-section h5 {
   color: #ea771b;
 }
 
