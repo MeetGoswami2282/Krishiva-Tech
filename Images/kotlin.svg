@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <linearGradient id="linear-gradient" x1="2.561" y1="32.437" x2="3.695" y2="31.291" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0296d8"/>
+      <stop offset="1" stop-color="#8371d9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="2.427" y1="32.258" x2="3.589" y2="31.205" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cb55c0"/>
+      <stop offset="1" stop-color="#f28e0e"/>
+    </linearGradient>
+  </defs>
+  <g id="kotlin-svgrepo-com_1_" data-name="kotlin-svgrepo-com (1)" transform="translate(-2 -2)">
+    <path id="Path_65320" data-name="Path 65320" d="M2,2V62H62v-.1l-14.893-15L32.214,31.884,47.107,16.859,61.867,2Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+    <path id="Path_65321" data-name="Path 65321" d="M32.681,2,2,32.681V62h.266L32.283,31.983l-.066-.066L47.107,16.893,61.867,2Z" transform="translate(0 0)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
