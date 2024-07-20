@@ -776,7 +776,8 @@ ul {
 }
 
 .footer-logo {
-  width: 100px;
+  width: 200px;
+  height: 170px;
   /* Adjust the size as needed */
   /* margin-bottom: 15px; */
 }
@@ -805,6 +806,9 @@ ul {
   margin-top: 20px;
 }
 
+.footer-section a{
+  color: #252525;
+}
 .footer-bottom p {
   margin: 0;
   color: #333;
