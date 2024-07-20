@@ -318,6 +318,7 @@ nav {
   background-color: white;
   border-bottom: 1px solid #ccc;
   overflow-x: auto;
+  overflow: hidden;
 }
 
 .tabs a.tab {
@@ -397,7 +398,11 @@ nav {
   display: flex;
   flex-wrap: wrap;
 }
-
+@media only screen and (min-width: 300px) and (max-width: 750px) {
+  .tabs {
+    overflow: auto;
+}
+}
 @media (max-width: 768px) {
   .tech-item {
     flex: 1 1 calc(50% - 2em);
@@ -409,6 +414,7 @@ nav {
     flex: 1 1 100%;
   }
 }
+
 
 /* ABOUT-US SECTION */
 /* ABOUT-US SECTION */
@@ -574,7 +580,7 @@ nav {
 }
 
 .slide img {
-  width: 100px;
+  /* width: 100px; */
   height: 100px;
   animation: scroll 60s linear infinite;
 }
