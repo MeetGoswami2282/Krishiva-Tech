@@ -19,23 +19,39 @@
 
 	<!-- NAVBAR  --> 	<!-- NAVBAR  --> 	<!-- NAVBAR  -->
 
-	<div class="navigation-bar">
-		<nav class="col-xl-11 p-2 pb-2 mx-auto">
-		   <p class="logo">
-			  <img src="Images/company-logo.svg">
-		   </p>
-		   <div class="links">
-			  <a href="index.html">SERVICES</a>
-			  <a href="index.html">TECHNOLOGY</a>
-			  <a href="index.html">PORTFOLIO</a>
-			  <a href="index.html">TESTIMONIAL</a>
-			  <a href="index.html"><button class=" contact-now-nav  py-2 px-4 rounded d-full  text-white border-0">Get in Touch</button></a>
-		   </div>
-		   <div class="menu">
-			  <div class="middle"></div>
-		   </div>
-		</nav>
-	 </div>
+		<div class="navigation-bar">
+			<nav class="navbar col-xl-11 p-2 pb-2 mx-auto" style="height: 80px;">
+				<div class="logos">
+					<a href="index.html"><img src="Images/company-logo.svg" style="width: 100px;height: 100px;"></a>
+
+				</div>
+				<ul class="nav-links">
+					<li><a href="index.html">SERVICES</a></li>
+					<li><a href="index.html">TECHNOLOGY</a></li>
+					<li><a href="index.html">PORTFOLIO</a></li>
+					<li><a href="index.html">TESTIMONIAL</a></li>
+					<li><a href="contact-us.html"><button class=" contact-now-nav py-2 px-4 rounded d-full text-white border-0">Get in Touch</button></a></li>
+				</ul>
+				<div class="burger">
+					<div class="line1"></div>
+					<div class="line2"></div>
+					<div class="line3"></div>
+				</div>
+			</nav>
+		
+		</div>
+	
+<script>
+	const burger = document.querySelector('.burger');
+const nav = document.querySelector('.nav-links');
+
+burger.addEventListener('click', () => {
+    nav.classList.toggle('active');
+});
+
+</script>	
+
+
 
 
 	 <div class="container my-5">
@@ -51,7 +67,7 @@
 				</nav>
 	
 				<form>
-					<div class="row g-3">
+					<div class="row g-3 mt-5">
 						<div class="col-md-6">
 							<label for="your-name" class="form-label">Your Name</label>
 							<input type="text" class="form-control" id="your-name" name="your-name" required>
@@ -76,7 +92,7 @@
 						<div class="col-12">
 							<div class="row">
 								<div class="submit-form col-md-12">
-									<button type="submit p-5" class="text-white submit-form w-100 border-0 fw-bold rounded">Send</button>
+									<button type="submit p-5" class=" contact-send submit-form w-100 border-0 fw-bold rounded">Send</button>
 								</div>
 							</div>
 						</div>

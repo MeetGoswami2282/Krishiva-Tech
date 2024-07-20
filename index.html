@@ -14,23 +14,37 @@
 </head>
 <body>
    <!-- NAVBAR --> <!-- NAVBAR --> <!-- NAVBAR -->
-   <div class="navigation-bar">
-      <nav class="col-xl-11 p-2 pb-2 mx-auto">
-         <p class="logo">
-            <img src="Images/company-logo.svg">
-         </p>
-         <div class="links">
-            <a href="#all-services">SERVICES</a>
-            <a href="#technology-section">TECHNOLOGY</a>
-            <a href="#works">PORTFOLIO</a>
-            <a href="#testimonial-section">TESTIMONIAL</a>
-            <a href="contact-us.html"><button class=" contact-now-nav  py-2 px-4 rounded d-full  text-white border-0">Get in Touch</button></a>
-         </div>
-         <div class="menu">
-            <div class="middle"></div>
-         </div>
-      </nav>
-   </div>
+   
+		<div class="navigation-bar">
+			<nav class="navbar col-xl-11 p-2 pb-2 mx-auto">
+				<div class="nav-logo">
+					<img src="Images/company-logo.svg">
+
+				</div>
+				<ul class="nav-links">
+					<li><a href="#all-services">SERVICES</a></li>
+					<li><a href="#technology-section">TECHNOLOGY</a></li>
+					<li><a href="#works">PORTFOLIO</a></li>
+					<li><a href="#testimonial-section">TESTIMONIAL</a></li>
+					<li><a href="contact-us.html"><button class=" contact-now-nav  py-2 px-4 rounded d-full  text-white border-0">Get in Touch</button></a></li>
+
+				</ul>
+				<div class="burger">
+					<div class="line1"></div>
+					<div class="line2"></div>
+					<div class="line3"></div>
+				</div>
+			</nav>
+		</div>
+      <script>
+         const burger = document.querySelector('.burger');
+      const nav = document.querySelector('.nav-links');
+      
+      burger.addEventListener('click', () => {
+          nav.classList.toggle('active');
+      });
+      
+      </script>	
    <!-- HERO SECTION --> <!-- HERO SECTION --> <!-- HERO SECTION -->
    <section class="hero col-xl-11 p-2 pb-2 mx-auto d-flex flex-wrap  align-items-center">
       <div class="hero-content">
