@@ -313,14 +313,14 @@ margin-bottom: 0px !important;
 
 .tabs a.tab.active,
 .tabs a.tab:hover {
-  color: orange;
+  color: #ea771b;
 }
 
 .tabs a.tab:after {
   content: "";
   display: block;
   height: 3px;
-  background-color: orange;
+  background-color: #ea771b;
   position: absolute;
   bottom: -1px;
   left: 0;
