@@ -1,6 +1,5 @@
 * {
-  font-family: "poppins";
-  box-sizing: border-box;
+  font-family: "rubik";
   box-sizing: border-box;
   padding: 0;
   margin: 0;
@@ -782,7 +781,7 @@ ul {
 }
 
 .footer-logo {
-  width: 200px;
+  /* width: 200px; */
   height: 170px;
   /* Adjust the size as needed */
   /* margin-bottom: 15px; */
