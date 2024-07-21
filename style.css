@@ -1,5 +1,5 @@
 * {
-  font-family: "rubik";
+  font-family: "poppins";
   box-sizing: border-box;
   box-sizing: border-box;
   padding: 0;
@@ -202,6 +202,8 @@ margin-bottom: 0px !important;
 
 .our-service h1 {
   margin-top: 50px;
+  color: #0B2238;
+
 }
 
 .all-services {
@@ -224,7 +226,7 @@ margin-bottom: 0px !important;
 .card4 p,
 .card5 p,
 .card6 p {
-  color: #707070;
+  color: #6c7a87;
 }
 
 .card2,
@@ -232,7 +234,9 @@ margin-bottom: 0px !important;
 .card6 {
   background-color: #f4f8fd;
 }
-
+.card1,.card2, .card3, .card4, .card5, .card6 h5{
+  color: #0B2238;
+}
 @media only screen and (min-width: 425px) and (max-width: 1024px) {
   .card1,
   .card2,
@@ -268,12 +272,21 @@ margin-bottom: 0px !important;
 .hire-us{
   background-color: #ea771b;
 }
+.why-choose-description {
+  color: #6c7a87;
+}
+.why-choose-heading{
+  color: #0B2238;
+}
 
 /* TECHNOLOGY SECTION */
 /* TECHNOLOGY SECTION */
 /* TECHNOLOGY SECTION */
 #technology-section {
   margin-top: 100px;
+}
+#technology-section h1{
+  color: #0B2238;
 }
 
 #technology-section h5 {
@@ -391,13 +404,19 @@ margin-bottom: 0px !important;
 .about-krishiva-main {
   margin-top: 50px;
 }
-
+ .first-one{
+  color: #0B2238;
+ } 
 .about-section {
   background-color: #f3f6fb;
+}
+.about-section h1{
+  color: #0B2238;
 }
 
 .first-one p {
   text-align: justify;
+  color: #6c7a87;
 }
 
 .about-text {
@@ -409,7 +428,9 @@ margin-bottom: 0px !important;
   border: none;
   color: white;
 }
-
+.inner-content{
+  color: #0B2238;
+}
 .first-card,
 .second-card,
 .third-card,
@@ -484,7 +505,9 @@ margin-bottom: 0px !important;
 #works {
   margin-top: 150px !important;
 }
-
+#works{
+  color: #0B2238;
+}
 #works h5 {
   color: #ea771b;
 }
@@ -522,10 +545,12 @@ margin-bottom: 0px !important;
 .section .description h2 {
   margin-bottom: 10px;
   font-size: 24px;
+  color: #0B2238;
 }
 
 .section .description p {
-  color: #666;
+  color: #6c7a87;
+
 }
 
 /* Mobile responsiveness */
@@ -671,7 +696,7 @@ margin-bottom: 0px !important;
 
 .gtco-testimonials .card p {
   font-size: 18px;
-  color: #555;
+  color: #6c7a87;
   padding-bottom: 15px;
 }
 
@@ -690,6 +715,7 @@ margin-bottom: 0px !important;
 
 .gtco-testimonials .center h5 span {
   font-size: 20px;
+  color: #0B2238;
 }
 
 .gtco-testimonials .center .card-img-top {
@@ -759,6 +785,7 @@ ul {
 .footer-section h2 {
   margin-bottom: 15px;
   font-size: 1.2rem;
+  color: #0B2238;
 }
 
 .footer-section ul {
