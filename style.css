@@ -396,6 +396,11 @@ margin-bottom: 0px !important;
   }
 }
 
+@media only screen and (min-width: 300px) and (max-width: 512px) {
+  .tech {
+    justify-content: normal;
+}
+}
 
 /* ABOUT-US SECTION */
 /* ABOUT-US SECTION */
