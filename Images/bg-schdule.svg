@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1640" height="375" viewBox="0 0 1640 375">
+  <defs>
+    <filter id="Ellipse_3039" x="1344" y="79.744" width="61" height="61" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="0.968" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#99b3f7"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_150871" data-name="Group 150871" transform="translate(-140 -3459)">
+    <rect id="Rectangle_53067" data-name="Rectangle 53067" width="1640" height="375" rx="10" transform="translate(140 3459)" fill="#eb7819"/>
+    <g id="Group_39521" data-name="Group 39521" transform="translate(68 3530)" opacity="0.299">
+      <circle id="Ellipse_3018" data-name="Ellipse 3018" cx="3" cy="3" r="3" transform="translate(211 200)" fill="#fff"/>
+      <circle id="Ellipse_3017" data-name="Ellipse 3017" cx="3" cy="3" r="3" transform="translate(229 200)" fill="#fff"/>
+      <circle id="Ellipse_3019" data-name="Ellipse 3019" cx="3" cy="3" r="3" transform="translate(246 200)" fill="#fff"/>
+      <circle id="Ellipse_3016" data-name="Ellipse 3016" cx="3" cy="3" r="3" transform="translate(264 200)" fill="#fff"/>
+      <circle id="Ellipse_3020" data-name="Ellipse 3020" cx="3" cy="3" r="3" transform="translate(281 200)" fill="#fff"/>
+      <circle id="Ellipse_3023" data-name="Ellipse 3023" cx="3" cy="3" r="3" transform="translate(298 200)" fill="#fff"/>
+      <circle id="Ellipse_3015" data-name="Ellipse 3015" cx="3" cy="3" r="3" transform="translate(264 218)" fill="#fff"/>
+      <circle id="Ellipse_3021" data-name="Ellipse 3021" cx="3" cy="3" r="3" transform="translate(281 218)" fill="#fff"/>
+      <circle id="Ellipse_3024" data-name="Ellipse 3024" cx="3" cy="3" r="3" transform="translate(298 218)" fill="#fff"/>
+      <circle id="Ellipse_3014" data-name="Ellipse 3014" cx="3" cy="3" r="3" transform="translate(247 218)" fill="#fff"/>
+      <circle id="Ellipse_3013" data-name="Ellipse 3013" cx="3" cy="3" r="3" transform="translate(229 218)" fill="#fff"/>
+      <circle id="Ellipse_3012" data-name="Ellipse 3012" cx="3" cy="3" r="3" transform="translate(212 218)" fill="#fff"/>
+      <circle id="Ellipse_3011" data-name="Ellipse 3011" cx="3" cy="3" r="3" transform="translate(212 236)" fill="#fff"/>
+      <circle id="Ellipse_3010" data-name="Ellipse 3010" cx="3" cy="3" r="3" transform="translate(229 236)" fill="#fff"/>
+      <circle id="Ellipse_3009" data-name="Ellipse 3009" cx="3" cy="3" r="3" transform="translate(247 236)" fill="#fff"/>
+      <circle id="Ellipse_3008" data-name="Ellipse 3008" cx="3" cy="3" r="3" transform="translate(264 236)" fill="#fff"/>
+      <circle id="Ellipse_3022" data-name="Ellipse 3022" cx="3" cy="3" r="3" transform="translate(281 236)" fill="#fff"/>
+      <circle id="Ellipse_3025" data-name="Ellipse 3025" cx="3" cy="3" r="3" transform="translate(298 236)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 140, 3459)" filter="url(#Ellipse_3039)">
+      <circle id="Ellipse_3039-2" data-name="Ellipse 3039" cx="15.5" cy="15.5" r="15.5" transform="translate(1359 91.74)" fill="#fff" opacity="0.157"/>
+    </g>
+    <path id="Subtraction_49" data-name="Subtraction 49" d="M149.5,144a66.481,66.481,0,0,1-58.031-34H207.531a66.849,66.849,0,0,1-23.94,24.609A66.19,66.19,0,0,1,149.5,144Z" transform="translate(129.5 3349)" fill="rgba(255,255,255,0.14)"/>
+    <path id="Rectangle_24931" data-name="Rectangle 24931" d="M0,0H40a0,0,0,0,1,0,0V91a20,20,0,0,1-20,20h0A20,20,0,0,1,0,91V0A0,0,0,0,1,0,0Z" transform="translate(1660 3459)" opacity="0.353" fill="url(#linear-gradient)"/>
+    <g id="Group_39522" data-name="Group 39522" transform="translate(308 2995.244)" opacity="0.537">
+      <g id="Ellipse_3027" data-name="Ellipse 3027" transform="translate(242 540)" fill="#eb7819" stroke="#fff" stroke-width="1">
+        <circle cx="19.5" cy="19.5" r="19.5" stroke="none"/>
+        <circle cx="19.5" cy="19.5" r="19" fill="none"/>
+      </g>
+      <circle id="Ellipse_3028" data-name="Ellipse 3028" cx="10" cy="10" r="10" transform="translate(252 550)" fill="#fff"/>
+      <circle id="Ellipse_3029" data-name="Ellipse 3029" cx="10" cy="10" r="10" transform="translate(236 533)" fill="#eb7819"/>
+    </g>
+    <path id="Subtraction_51" data-name="Subtraction 51" d="M-12098.912,8811.249h-182.573c1.031-2.1,2.149-4.194,3.322-6.221a103.566,103.566,0,0,1,10.042-14.378,103.608,103.608,0,0,1,12.275-12.418,101.2,101.2,0,0,1,30.088-17.787A100.576,100.576,0,0,1-12190.2,8754a100.554,100.554,0,0,1,35.557,6.444,101.17,101.17,0,0,1,30.09,17.787,103.4,103.4,0,0,1,12.275,12.418,103.558,103.558,0,0,1,10.043,14.378c1.173,2.027,2.29,4.12,3.321,6.22Z" transform="translate(13651.199 -4977.25)" fill="rgba(255,255,255,0.29)"/>
+  </g>
+</svg>

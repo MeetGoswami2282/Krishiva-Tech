@@ -769,11 +769,14 @@ ul {
 /* SCHEDULE SECTION */
 /* SCHEDULE SECTION */
 .Schedule-section {
-	background-color: #ea771b;
+	/* background-color: #ea771b; */
+	background-image: url("Images/bg-schdule.svg");
 	height: 200px;
 	border-radius: 10px;
+	background-position: center;
 	margin-top: 150px;
-}
+	background-repeat: no-repeat;
+max-height: 50%;}
 
 .Schedule-section h3 {
 	padding-top: 20px;
