@@ -375,6 +375,11 @@ ul {
 */
 	box-sizing: border-box;
 }
+.api-maker{
+	background-color: #222222;
+	padding: 7px;
+	border-radius: 10px;
+}
 
 .tech-item img {
 	width: 64px;
